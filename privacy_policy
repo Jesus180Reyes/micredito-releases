@@ -1,110 +1,11 @@
-Privacy Policy
+MiCrédito Honduras is a mobile application designed to capture photos and manage information securely on the user’s device.
 
-Last updated: January 2026
+The app allows users to take photos directly from the application and stores them locally on the device for later use. No images or personal data are uploaded to external servers.
 
-This application (“Micredito”) is developed to provide its intended functionality and respects the privacy of its users.
+Key features:
+• Capture photos initiated by the user
+• Local storage only
+• No background camera usage
+• No data sharing with third parties
 
-Information Collection and Use
-
-The App may request access to the device camera exclusively to allow the user to take photos within the application.
-
-Photos are used only for the app’s functionality
-
-The App does not collect personal data automatically
-
-The App does not share data with third parties
-
-Camera Permission
-
-The camera permission (android.permission.CAMERA) is required solely to:
-
-Capture photos initiated by the user
-
-The App does not access the camera in the background and does not record video or audio without user interaction.
-
-Data Storage
-
-Images captured may be stored locally on the device
-
-The App does not upload images to external servers unless explicitly stated within the app
-
-Data Security
-
-Reasonable measures are taken to protect the information handled by the App. However, no method of storage is 100% secure.
-
-Children’s Privacy
-
-The App does not knowingly collect personal information from children under the age of 13.
-
-Changes to This Privacy Policy
-
-This policy may be updated from time to time. Any changes will be reflected on this page.
-
-Contact
-
-If you have any questions about this Privacy Policy, you may contact the developer through the application’s store listing.
-
-🔥 Tips rápidos para que Google no moleste:
-
-Publícala en inglés (Google lo prefiere)
-
-Que la URL sea pública y accesible sin login
-
-No digas “we may collect data” si no lo haces → Google odia la ambigüedad
-
-Si tu app sí sube fotos a un backend, usa analíticas o login, dímelo y la ajustamos en 2 minutos.
-Mejor hacerlo bien hoy que pelear con el reviewer mañana 😎
-
-si la app **guarda fotos localmente** o las **sube a backend** y te armo **una política de privacidad lista para copiar/pegar**. El futuro tú te lo va a agradecer
-
-si guarda fotos localmente
-
-Perfecto. Entonces aquí va la Privacy Policy ajustada específicamente a “fotos guardadas localmente”, 100% compatible con Google Play y sin zonas grises. Lista para copiar/pegar.
-
-Privacy Policy
-
-Last updated: January 2026
-
-This application (“the App”) is developed to provide its intended functionality and respects the privacy of its users.
-
-Information Collection and Use
-
-The App may request access to the device camera solely to allow the user to take photos within the application.
-
-The App does not collect personal data automatically
-
-The App does not transmit data to external servers
-
-The App does not share data with third parties
-
-Camera Permission
-
-The camera permission (android.permission.CAMERA) is required only to:
-
-Capture photos initiated directly by the user
-
-The App does not access the camera in the background and does not record video or audio.
-
-Local Data Storage
-
-Photos captured using the App are stored locally on the user’s device
-
-The App does not upload photos or files to any backend or cloud service
-
-All data remains under the user’s control on their own device
-
-Data Security
-
-Since all data is stored locally, the security of the data depends on the security measures of the user’s device. The App does not retain copies of user data.
-
-Children’s Privacy
-
-The App does not knowingly collect personal information from children under the age of 13.
-
-Changes to This Privacy Policy
-
-This Privacy Policy may be updated from time to time. Any changes will be reflected on this page.
-
-Contact
-
-If you have any questions about this Privacy Policy, please contact the developer through the application’s store listing.
+MiCrédito Honduras respects user privacy and operates fully offline.
